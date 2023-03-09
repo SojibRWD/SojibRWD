@@ -1,4 +1,4 @@
-![I am SojibRWD]([https://i.ibb.co/K60M47y/git-sojib.png](https://github.com/SojibRWD/SojibRWD/blob/main/git-sojib.png))
+![I am SojibRWD](https://github.com/SojibRWD/SojibRWD/blob/main/git-sojib.png)
 
 
 <h1 align="center">Hi 👋, I'm Md Sojib Mia</h1>
